@@ -1,4 +1,6 @@
-# hakkutsu
+# 発掘王
+
+![発掘王サンプルイメージ](/public/image/hakkutsu.jpg)
 
 ## Project setup
 ```

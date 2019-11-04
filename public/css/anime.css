@@ -1,0 +1,14 @@
+/*animation*/
+.accordion{
+    height:50px;
+    width: 100px;
+    overflow: hidden;
+}
+
+
+.slide_down-enter-active, .slide_down-leave-active {
+    transition: all .5s;
+}
+.slide_down-enter, .slide_down-leave-to {
+    height: 0;
+}
